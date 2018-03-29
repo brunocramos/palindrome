@@ -10,10 +10,6 @@
 
     // Running
     npm start
-    
-    // Building
-    npm run build
-    http-server dist // or http-server of choice
 ```
 
 Total time to develop: 23min
@@ -24,7 +20,13 @@ Total time to develop: 23min
 ```
     cd client
     npm install
+
+    // Running
     npm start
+    
+    // Building
+    npm run build
+    http-server dist // or http-server of choice
 ```
 
 Total time to develop: 41min

@@ -1,0 +1,16 @@
+body {
+    color: rgba(33, 30, 43, 1);
+    background: rgba(73, 70, 81, 1);
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    line-height: 1.2em;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*::selection {
+    color: rgba(247, 242, 190, 1);
+    background: rgba(33, 30, 43, 1);
+}

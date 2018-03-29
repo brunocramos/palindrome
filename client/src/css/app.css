@@ -1,0 +1,5 @@
+/**
+ * Some parts of ITCSS only for this small project
+ */
+@import 'generic/generic.css';
+@import 'elements/elements.css';

@@ -10,6 +10,10 @@
 
     // Running
     npm start
+    
+    // Building
+    npm run build
+    http-server dist // or http-server of choice
 ```
 
 Total time to develop: 23min
